@@ -1,5 +1,5 @@
 # AWADO Mobile Application
-
+This project was group project in Stuttgart University of Applied Sciences. Big thanks to the students of the 2019/20 generation.
 ## Getting Started
 
 * [Download the installer](https://nodejs.org/) for Node.js 6 or greater.
